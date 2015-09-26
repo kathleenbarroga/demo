@@ -1,0 +1,12 @@
+CACHE MANIFEST
+
+images/logo.ico
+images/home.png
+images/login.png
+images/logo.png
+images/register.png
+
+NETWORK:
+*
+
+FALLBACK:

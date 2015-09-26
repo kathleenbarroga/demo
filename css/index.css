@@ -1,0 +1,47 @@
+/*Members contributed to file: Barroga, Carantes*/
+html{
+	position: relative;
+
+	margin: 10px;
+	
+}
+
+.content{
+	position: relative;
+
+	margin: 4em auto;
+	padding-top:5px;
+
+	text-align: center;
+	
+}
+
+#reg, #login{
+	width:20%;
+	height:23%;
+	padding:20px;
+}
+
+#homeImg{
+	width:32%;
+	height:34%;
+
+}
+
+.edtr{
+	display: block;
+
+	text-align: center;
+}
+
+.menu{
+	display: block;
+
+	max-width:200px;
+	max-height:240px;
+	padding:20px;
+
+	text-align: center;
+}
+
+

@@ -1,0 +1,25 @@
+{
+	"id" : 123456,
+	"password" : 1111,
+	"lastName" : "Smith",
+	"firstName" : "Will",
+	"course" : "BSIT",
+	"workPlace" : "IT Center",
+	"adviser" : "Cecilia Mercado",
+	"totalHours" : "200",
+			 
+	"logs" : [
+			 	{
+			 		"date" : "1428395424974",
+			 		"type" : "in"
+			 	}
+
+			 	{
+			 		"date" : "1428400925350",
+			 		"type" : "out",
+			 		"summary" : "Brushed teeth"
+			 	}
+			 ]
+}
+		
+		

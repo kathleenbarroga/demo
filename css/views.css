@@ -1,0 +1,117 @@
+/*Members contributed to file: Barroga, Bautista, Carantes*/
+
+#head {
+	position: fixed;
+	top: 0;
+	left: 0;
+
+	width: 100%;
+	height: 100px;
+	margin-top: 10px;
+	padding-top: 20px;
+	padding-bottom: 5px;
+
+	text-align: center;
+
+	background-color: #ffffff;
+}
+
+
+#dailyTable{
+	display: block;
+}
+#weeklyTable{
+	display: none;
+}
+#monthlyTable{
+	display: none;
+}
+
+#view {
+	width: 100%;
+	height: 35px;
+	margin-top: 160px;
+	margin-bottom: 30px;
+	padding-top: 5px;
+
+	text-align: center;
+
+	background-color: #BD600E;
+
+}
+
+#view ul {
+    width: 100%;
+    height: auto;
+    height: 40px;
+    margin: 0px auto;
+    padding: 0px;
+}
+
+#view li { 
+	display: inline; 
+
+	padding: 0px; 
+}
+
+#view a {
+	padding-right: 15px;
+	padding-left: 15px;
+
+	text-decoration: none;
+
+	color: white;
+
+	font-family: Lucida Grande, Helvetica, Arial, sans-serif;
+	font-size: 20px;
+	font-size: 12px;
+}
+
+#view a:hover {
+	color: black;
+	background-color:#F7EAA4; 
+} 
+
+img{
+    	position:absolute;top:0;right:-50%; 
+    	left:-50%; 
+
+    	width:auto;
+    	height:100%; 
+    	margin:auto;
+}
+
+
+table {
+	width: 100%;
+
+	text-align: center;
+
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+}
+
+table, td {
+    padding: 10px;
+}
+
+th {
+	padding:10px;
+
+	background-color: #FFC154;
+}
+
+tr:nth-child(odd){
+	background-color: #ffffff;
+}
+
+tr:nth-child(even){
+	background-color: #F7EAA4;
+}
+
+#downloadButton{
+    width: 10%;
+    height: 5%;
+
+    cursor:pointer;
+}

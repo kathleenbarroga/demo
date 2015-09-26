@@ -1,0 +1,233 @@
+/*Members contributed to file: Barroga, Bautista, Carantes*/
+
+*, *::after, *::before {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: "Open Sans", sans-serif;
+  color: #2b3e51;
+}
+
+#DOING:0 2015-02-09 This task was created on 2015-02-09
+a{
+  border: none;
+  background: #2c97de;
+  border-radius: .25em;
+  padding: 16px 20px;
+  margin:35px;
+  margin-bottom: 20px;
+  color: #ffffff;
+  font-weight: bold;
+  float: center;
+  cursor: pointer;
+  text-decoration: none;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms-appearance: none;
+  -o-appearance: none;
+  appearance: none;
+ }
+
+.pos{
+position: center;
+}
+.cd-form {
+  width: 90%;
+  max-width: 600px;
+  margin: 4em auto;
+}
+
+.cd-form::after {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+.cd-form fieldset {
+  margin: 24px 0;
+}
+
+.cd-form legend {
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+  font-size: 3rem;
+  border-bottom: 1px solid #ecf0f1;
+
+}
+
+.cd-form div {
+  position: relative;
+  margin: 20px 0;
+}
+
+.cd-form .cd-label {
+  font-size: 1.3rem;
+  color: #94aab0;
+  margin-bottom: 10px;
+}
+
+.cd-form .cd-label {
+  display: block;
+}
+
+.cd-form input, .cd-form label {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.6rem;
+  color: #2b3e51;
+}
+
+.cd-form input, .cd-form legend {
+  display: block;
+  width: 100%;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms-appearance: none;
+  -o-appearance: none;
+  appearance: none;
+}
+
+.cd-form input{
+  padding: 12px;
+  border: 1px solid #cfd9db;
+  background-color: #ffffff;
+  border-radius: .25em;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.08);
+}
+
+.cd-form input:focus{
+  outline: none;
+  border-color: #2c97de;
+  box-shadow: 0 0 5px rgba(44, 151, 222, 0.2);
+}
+
+.cd-form input[type="submit"] {
+  border: none;
+  background: #2c97de;
+  border-radius: .25em;
+  padding: 16px 20px;
+  color: #ffffff;
+  font-weight: bold;
+  float: center;
+  cursor: pointer;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms-appearance: none;
+  -o-appearance: none;
+  appearance: none;
+}
+
+.cd-form input[type="button"] {
+  border: none;
+  background: #2c97de;
+  border-radius: .25em;
+  padding: 16px 20px;
+  color: #ffffff;
+  font-weight: bold;
+  float: center;
+  cursor: pointer;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms-appearance: none;
+  -o-appearance: none;
+  appearance: none;
+}
+
+p {
+margin-left: 70px;
+font-weight: bold;
+}
+
+#idError
+/*#passwordError,
+#firstNameError,
+#lastNameError,
+#courseError,
+#workplaceError,
+#adviserError,
+#hoursError*/{
+ color:#FF0000;
+ font-size: 13px;
+ }
+
+#passwordError{
+ color:#FF0000;
+ font-size: 13px;
+ }
+
+#firstNameError{
+ color:#FF0000;
+ font-size: 13px;
+ }
+
+ #lastNameError{
+ color:#FF0000;
+ font-size: 13px;
+ }
+
+ #courseError{
+ color:#FF0000;
+ font-size: 13px;
+ }
+
+ #workplaceError{
+ color:#FF0000;
+ font-size: 13px;
+ }
+
+ #adviserError{
+ color:#FF0000;
+ font-size: 13px;
+ }
+
+#hoursError{
+ color:#FF0000;
+ font-size: 13px;
+ }
+
+
+ #clock{
+ color:#0033CC;
+ font-size:40px;
+ margin:10px;
+ }
+
+ /*#currclck{
+ color: #94aab0;
+ font-size:17px;
+ margin:10px;
+ }*/
+
+ #summary{
+  width: 100%;
+  display: none;
+}
+
+textarea#summaryText {
+  width: 485px;
+  height: 120px;
+  border: 3px solid #cccccc;
+  padding: 5px;
+  font-family: Tahoma, sans-serif;
+  background-image: url(bg.gif);
+  background-position: bottom right;
+  background-repeat: no-repeat;
+}
+
+.panksyon{
+  text-align: center;
+}

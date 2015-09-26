@@ -1,0 +1,61 @@
+
+<!DOCTYPE html>  
+<!--Members contributed to file: Barroga, Bautista, Carantes--> 
+<html lang="en" manifest="cache.appcache"><head>
+<LINK REL="SHORTCUT ICON" HREF="images/logo.ico">  
+<meta name = "viewport" content="width=device-width, initial-scale=1">  
+<meta charset="utf-8">  
+<title>Timer</title>  
+<meta name = "viewport" content="width=device-width, initial-scale=1">
+<meta name="keywords" content="Timer" />  
+<meta name="description" content="Time Recorder" />  
+<link rel='stylesheet' href='css/style.css' type='text/css' />
+<script src = "script/timer.js"></script>
+</head>
+
+<body onload="clock()">
+	<form  form class="cd-form floating-labels" id = "inout" name='login' onSubmit="return out();">
+		<fieldset>
+			<legend>Time In/Time Out</legend>
+			<!--<div id="currclck">Current Time:&nbssp;</div>-->
+			<div id="clock"></div>	
+			<ul class="panksyon">
+			<div id="enter">
+			<br>
+            <br>
+			<a href="javascript:timeIn()">Time in</a>
+			<br>
+			<br>
+			<br>
+			<a href="javascript:timeOut()">Time out</a>
+            <br>
+			<div id = "summary">
+				<br>
+				<textarea id = "summaryText" rows = "15">Activity</textarea><br>
+				<br>
+				<input type = "button" value = "Submit" onclick = "out()">
+				<br>
+				<input type = "button" value = "Cancel" onclick = "hideSummary()">
+                </div>
+			<br>
+			<br>
+			<a href="view.html">View Logs</a>
+			<br>
+			<br>
+			<br>
+			<a href="javascript:logOut()">Log out</a>
+			<br>
+			<br>
+			<br>
+
+			<a href="javascript:removeUser()">Remove User</a>
+
+			
+			</div>
+
+		</fieldset>
+	</form>
+			
+</body>
+
+</html>

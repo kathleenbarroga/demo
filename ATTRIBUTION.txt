@@ -1,0 +1,4 @@
+Images: 
+Kathleen Barroga : download.png, home.png, login.png, register.png 
+Jolly Anne Tonlentino: Logo.png, Json file
+Nathaniel Bautista: Manifest File, Logo.ico

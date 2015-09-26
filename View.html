@@ -1,0 +1,67 @@
+<!DOCTYPE html> 
+<!--Members contributed to file: Barroga, Bautista, Carantes-->  
+<html lang="en" manifest="cache.appcache">
+<head>
+	<LINK REL="SHORTCUT ICON" HREF="images/logo.ico">  
+	<meta name = "viewport" content="width=device-width, initial-scale=1">
+	<meta charset="utf-8">  
+	<title>Logs</title>  
+	<meta name="keywords" content="View Logs" />  
+	<meta name="description" content="View Logs " />  
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8"/>
+	<link rel='stylesheet' href='css/views.css' type='text/css' />  
+	<script src="script/views.js"></script>  
+</head> 
+
+<body onload="showDailyLogs();return false;">
+
+	<div id="head">
+		<a href="Timer.html"><img src="images/logo.png" border="0" alt="Time Recorder"></a> 
+	</div>
+	
+	<div id="view">
+		<ul class="">
+			<li><a id="dailyLink" title="View logs per session" href="#" onclick="showDailyLogs();return false;">Daily</a></li>
+			<li><a id="dailyLink" title="View logs per week" href="#" onclick="showWeeklyLogs();return false;">Weekly</a></li>
+			<li><a id="dailyLink" title="View logs per month" href="#" onclick="showMonthlyLogs();return false;">Monthly</a></li>
+		</ul>
+	</div>
+
+  	<div id="dailyTable">
+		<table id = "logbookTable">
+			<tr>
+		  		<th>Hours Left</th>
+		  		<th>Time in</th>
+		  		<th>Time out</th>
+		  		<th>Hours Used</th>
+		  		<th>Activity</th>
+		  	</tr>
+		  </table>     
+    </div>
+    <div>
+
+     <div id="weeklyTable">
+		<table id = "logbookTable">
+			<tr>
+		  		<th>Hours Left</th>
+		  		<th>Hours turned in per the week</th>
+		  	</tr>
+		  </table>     
+    </div>
+    <div>
+    <div id="monthlyTable">
+		<table id = "logbookTable">
+			<tr>
+		  		<th>Hours Left</th>
+		  		<th>Hours turned in per month</th>
+		  	</tr>
+		  </table>     
+    </div>
+
+	
+	<input type = "image" src="images/download.png" value="Download" alt="Download" onclick="download()" id="downloadButton">
+
+
+</body>
+
+</html>

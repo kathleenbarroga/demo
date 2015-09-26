@@ -1,0 +1,82 @@
+
+<!DOCTYPE html> 
+<!--Members contributed to file: Barroga, Bautista, Carantes, Hipol--> 
+<html lang="en" manifest="cache.appcache">
+<head>  
+	<LINK REL="SHORTCUT ICON" HREF="images/logo.ico">  
+	<meta charset="utf-8">  
+	<title>Register</title>  
+	<meta name = "viewport" content="width=device-width, initial-scale=1">
+	<meta name="keywords" content="JavaScript Form Validation" />  
+	<meta name="description" content="Registration Form " />  
+	<link rel='stylesheet' href='css/style.css' type='text/css' />  
+	<script src="script/registration-form-validation.js"></script>  
+</head> 
+ 
+<body>  
+
+	<form form class="cd-form floating-labels" name='registration' onSubmit="return formValidation();">
+		
+
+		<fieldset>
+
+			<legend>Registration Form</legend>
+			
+			  
+			
+			<div class="icon">    
+				<label class="cd-label" for="userid">ID Number:</label>  
+				<input type="text" name="userid" />
+			</div>
+			<div id="idError"></div>
+				
+			<div class="icon">
+				<label class="cd-label" for="passid">Password:</label>
+				<input type="password" name="passid" />
+			</div>
+			<div id="passwordError"></div>
+			
+			<div class="icon">
+				<label class="cd-label" for="username">First Name:</label> 
+				<input type="text" name="username" />  
+			</div>
+			<div id="firstNameError"></div>
+			
+			
+
+			<div class="icon">    
+				<label class="cd-label" for="lusername">Last Name:</label>  
+				<input type="text" name="lusername"  />
+			</div> 
+			<div id="lastNameError"></div>
+			
+			<div class="icon">    
+				<label class="cd-label" for="CrandYr">Course and Year:</label>  
+				<input type="text" name="CrandYr"  /> 
+			</div>
+			<div id="courseError"></div>
+			
+			<div class="icon">    
+				<label class="cd-label" for="Workplace">Workplace</label>  
+				<input type="text" name="Workplace" />
+			</div>
+			<div id="workplaceError"></div>
+
+			<div class="icon">    
+				<label class="cd-label" for="Adviser">Adviser</label>  
+				<input type="text" name="Adviser" />
+			</div>
+			<div id="adviserError"></div>		
+			
+			<div class="icon">    
+				<label class="cd-label" for="NoofHrsOfToComplete">Number of Hours to Complete:</label>
+				<input type="text" name="NoofHrsOfToComplete" />
+			</div>
+			<div id="hoursError"></div>
+			
+			<input type="submit" name="submit" value="Submit" />
+
+		</fieldset>
+	</form>  
+</body>  
+</html>  

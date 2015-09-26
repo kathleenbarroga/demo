@@ -1,0 +1,716 @@
+{
+	"trainees":[
+	{"id" : 213001,
+	 "lastName" : "Amadeo",
+	 "firstName" : "Chris",
+	 "course" : "BSIT",
+	 "workPlace" : "IT Center",
+	 "adviser" : "Cecilia Mercado",
+	 "totalHours" : "",
+	 
+	 "logs" : [
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 	}
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 		"summary" : "",
+	 	}
+	 ]
+
+	}
+	
+	
+	{"id" : 213002,
+	 "lastName" : "Baroga",
+	 "firstName" : "Kathleen",
+	 "course" : "",
+	 "workPlace" : "",
+	 "adviser" : "Randy Domantay",
+	 "totalHours" : "",
+	 
+	 "logs" : [
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 	}
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 		"summary" : "",
+	 	}
+	 	]
+	}
+
+	{"id" : 213003,
+	 "lastName" : "Bautista",
+	 "firstName" : "Nathaniel",
+	 "course" : "",
+	 "workPlace" : "",
+	 "adviser" : "Carlos Ben Montes",
+	 "totalHours" : "",
+	 
+	 "logs" : [
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 	}
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 		"summary" : "",
+	 	}
+	 
+
+	}
+	
+	
+	{"id" : 213004,
+	 "lastName" : "Bernard",
+	 "firstName" : "Prince",
+	 "course" : "",
+	 "workPlace" : "",
+	 "adviser" : "Maria Concepcion Clemente",
+	 "totalHours" : "",
+	 
+	 "logs" : [
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 	}
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 		"summary" : "",
+	 	}
+	 ]
+
+	}
+	
+
+	
+	{"id" : 213005,
+	 "lastName" : "Carantes",
+	 "firstName" : "Christian",
+	 "course" : "",
+	 "workPlace" : "",
+	 "adviser" : "Gerry Paul Genove",
+	 "totalHours" : "",
+	 
+	 "logs" : [
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 	}
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 		"summary" : "",
+	 	}
+	 ]
+
+	}
+	
+
+	
+	{"id" : 213006,
+	 "lastName" : "Crus",
+	 "firstName" : "Yolanda",
+	 "course" : "",
+	 "workPlace" : "",
+	 "adviser" : "Cecilia Mercado",
+	 "totalHours" : "",
+	 
+	 "logs" : [
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 	}
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 		"summary" : "",
+	 	}
+	 ]
+
+	}
+	
+
+	
+	{"id" : 213007,
+	 "lastName" : "De Leon",
+	 "firstName" : "Joey",
+	 "course" : "",
+	 "workPlace" : "",
+	 "adviser" : "Cecilia Mercado",
+	 "totalHours" : "",
+	 
+	 "logs" : [
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 	}
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 		"summary" : "",
+	 	}
+	 
+
+	}
+	
+
+	
+	{"id" : 213008,
+	 "lastName" : "Dela Cruz",
+	 "firstName" : "Juan",
+	 "course" : "",
+	 "workPlace" : "",
+	 "adviser" : "Maria Concepcion Clemente",
+	 "totalHours" : "",
+	 
+	 "logs" : [
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 	}
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 		"summary" : "",
+	 	}
+	 
+
+	}
+	
+
+	
+	{"id" : 213009,
+	 "lastName" : "Delos Santos",
+	 "firstName" : "Denmark",
+	 "course" : "",
+	 "workPlace" : "",
+	 "adviser" : "Carlos Ben Montes",
+	 "totalHours" : "",
+	 
+	 "logs" : [
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 	}
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 		"summary" : "",
+	 	}
+	 
+
+	}
+	
+
+	
+	{"id" : 213010,
+	 "lastName" : "Doe",
+	 "firstName" : "John",
+	 "course" : "",
+	 "workPlace" : "",
+	 "adviser" : "Maria Concepcion Clemente",
+	 "totalHours" : "",
+	 
+	 "logs" : [
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 	}
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 		"summary" : "",
+	 	}
+	 
+
+	}
+	
+
+	
+	{"id" : 213011,
+	 "lastName" : "Duriano",
+	 "firstName" : "Benny",
+	 "course" : "",
+	 "workPlace" : "",
+	 "adviser" : "Randy Domantay",
+	 "totalHours" : "",
+	 
+	 "logs" : [
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 	}
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 		"summary" : "",
+	 	}
+	 
+
+	}
+	
+
+	
+	{"id" : 213012,
+	 "lastName" : "Fernando",
+	 "firstName" : "Adrian",
+	 "course" : "",
+	 "workPlace" : "",
+	 "adviser" : "Cecilia Mercado",
+	 "totalHours" : "",
+	 
+	 "logs" : [
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 	}
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 		"summary" : "",
+	 	}
+	 
+
+	}
+	
+
+	
+	{"id" : 213013,
+	 "lastName" : "Flores",
+	 "firstName" : "Kate",
+	 "course" : "",
+	 "workPlace" : "",
+	 "adviser" : "Gerry Paul Genove",
+	 "totalHours" : "",
+	 
+	 "logs" : [
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 	}
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 		"summary" : "",
+	 	}
+	 
+
+	}
+	
+
+	
+	{"id" : 213014,
+	 "lastName" : "Gutierrez",
+	 "firstName" : "Justin",
+	 "course" : "",
+	 "workPlace" : "",
+	 "adviser" : "Carlos Ben Montes",
+	 "totalHours" : "",
+	 
+	 "logs" : [
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 	}
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 		"summary" : "",
+	 	}
+	 
+
+	}
+	
+
+	
+	{"id" : 213015,
+	 "lastName" : "Hechanova",
+	 "firstName" : "Jesse",
+	 "course" : "",
+	 "workPlace" : "",
+	 "adviser" : "Gerry Paul Genove",
+	 "totalHours" : "",
+	 
+	 "logs" : [
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 	}
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 		"summary" : "",
+	 	}
+	 
+
+	}
+	
+
+	
+	{"id" : 213016,
+	 "lastName" : "Hipol",
+	 "firstName" : "Ryan",
+	 "course" : "",
+	 "workPlace" : "",
+	 "adviser" : "Cecilia Mercado",
+	 "totalHours" : "",
+	 
+	 "logs" : [
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 	}
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 		"summary" : "",
+	 	}
+	 
+
+	}
+	
+
+	
+	{"id" : 213017,
+	 "lastName" : "Ignacio",
+	 "firstName" : "Jonathan",
+	 "course" : "",
+	 "workPlace" : "",
+	 "adviser" : "Gerry Paul Genove",
+	 "totalHours" : "",
+	 
+	 "logs" : [
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 	}
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 		"summary" : "",
+	 	}
+	 
+
+	}
+	
+
+	
+	{"id" : 213018,
+	 "lastName" : "Jones",
+	 "firstName" : "Maria",
+	 "course" : "",
+	 "workPlace" : "",
+	 "adviser" : "Randy Domantay",
+	 "totalHours" : "",
+	 
+	 "logs" : [
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 	}
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 		"summary" : "",
+	 	}
+	 
+
+	}
+	
+
+	
+	{"id" : 213019,
+	 "lastName" : "Lacson",
+	 "firstName" : "Ping",
+	 "course" : "",
+	 "workPlace" : "",
+	 "adviser" : "Gerry Paul Genove",
+	 "totalHours" : "",
+	 
+	 "logs" : [
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 	}
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 		"summary" : "",
+	 	}
+	 
+
+	}
+	
+
+	
+	{"id" : 213020,
+	 "lastName" : "Malvar",
+	 "firstName" : "Sasha",
+	 "course" : "",
+	 "workPlace" : "",
+	 "adviser" : "Carlos Ben Montes",
+	 "totalHours" : "",
+	 
+	 "logs" : [
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 	}
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 		"summary" : "",
+	 	}
+	 
+
+	}
+	
+
+	
+	{"id" : 213021,
+	 "lastName" : "Mamis",
+	 "firstName" : "Dominique",
+	 "course" : "",
+	 "workPlace" : "",
+	 "adviser" : "Gerry Paul Genove",
+	 "totalHours" : "",
+	 
+	 "logs" : [
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 	}
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 		"summary" : "",
+	 	}
+	 
+
+	}
+	
+
+	
+	{"id" : 213022,
+	 "lastName" : "Marley",
+	 "firstName" : "Bob",
+	 "course" : "",
+	 "workPlace" : "",
+	 "adviser" : "Cecilia Mercado",
+	 "totalHours" : "",
+	 
+	 "logs" : [
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 	}
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 		"summary" : "",
+	 	}
+	 
+
+	}
+	
+
+	
+	{"id" : 213023,
+	 "lastName" : "Montes",
+	 "firstName" : "Kevin",
+	 "course" : "",
+	 "workPlace" : "",
+	 "adviser" : "Carlos Ben Montes",
+	 "totalHours" : "",
+	 
+	 "logs" : [
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 	}
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 		"summary" : "",
+	 	}
+	 
+
+	}
+	
+
+	
+	{"id" : 213024,
+	 "lastName" : "Portento",
+	 "firstName" : "Kevin",
+	 "course" : "",
+	 "workPlace" : "",
+	 "adviser" : "Maria Concepcion Clemente",
+	 "totalHours" : "",
+	 
+	 "logs" : [
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 	}
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 		"summary" : "",
+	 	}
+	 
+
+	}
+	
+
+	
+	{"id" : 213025,
+	 "lastName" : "Russell",
+	 "firstName" : "Bea",
+	 "course" : "",
+	 "workPlace" : "",
+	 "adviser" : "Randy Domantay",
+	 "totalHours" : "",
+	 
+	 "logs" : [
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 	}
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 		"summary" : "",
+	 	}
+	 
+
+	}
+	
+
+	
+	{"id" : 213026,
+	 "lastName" : "Santos",
+	 "firstName" : "Jessica",
+	 "course" : "",
+	 "workPlace" : "",
+	 "adviser" : "Randy Domantay",
+	 "totalHours" : "",
+	 
+	 "logs" : [
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 	}
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 		"summary" : "",
+	 	}
+	 
+
+	}
+	
+
+	
+	{"id" : 213027,
+	 "lastName" : "Tolentino",
+	 "firstName" : "Anne",
+	 "course" : "",
+	 "workPlace" : "",
+	 "adviser" : "Maria Concepcion Clemente",
+	 "totalHours" : "",
+	 
+	 "logs" : [
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 	}
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 		"summary" : "",
+	 	}
+	 
+
+	}
+	
+	
+	{"id" : 213028,
+	 "lastName" : "Vidal",
+	 "firstName" : "Allen",
+	 "course" : "",
+	 "workPlace" : "",
+	 "adviser" : "Cecilia Mercado",
+	 "totalHours" : "",
+	 
+	 "logs" : [
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 	}
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 		"summary" : "",
+	 	}
+	 
+
+	}
+	
+
+	
+	{"id" : 213029,
+	 "lastName" : "Vista",
+	 "firstName" : "Buena",
+	 "course" : "",
+	 "workPlace" : "",
+	 "adviser" : "Carlos Ben Montes",
+	 "totalHours" : ,
+	 
+	 "logs" : [
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 	}
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 		"summary" : "",
+	 	}
+	 
+
+	}
+	
+
+	
+	{"id" : 213030,
+	 "lastName" : "Uy",
+	 "firstName" : "Kenchan",
+	 "course" : "",
+	 "workPlace" : "",
+	 "adviser" : "Randy Domantay",
+	 "totalHours" : "",
+	 
+	 "logs" : [
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 	}
+	 	{
+	 		"date" : "",
+	 		"type" : "",
+	 		"summary" : "",
+	 	}
+	 
+
+	}
+
+ }
+}

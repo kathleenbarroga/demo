@@ -1,0 +1,133 @@
+{
+	"trainees" : [
+		{
+			"id" : 2130001,
+			"password" : "111111",
+			 "lastName" : "Banner",
+			 "firstName" : "Bruce",
+			 "course" : "BSIT",
+			 "workPlace" : "IT Center",
+			 "adviser" : "Cecilia Mercado",
+			 "totalHours" : 195,
+			 "logs": [
+			 	{
+			 		"date" : 1428495961752,
+			 		"type" : "in"
+			 	},
+			 	{
+			 		"date" : 1428514162520,
+			 		"type" : "out",
+			 		"summary" : "Edited Interface."
+			 	}
+
+			 ]
+
+		},
+		{
+
+			"id" : 2130002,
+			"password" : "222222",
+			 "lastName" : "Wayne",
+			 "firstName" : "Bruce",
+			 "course" : "BSCS",
+			 "workPlace" : "ISEF",
+			 "adviser" : "Randy Domantay",
+			 "totalHours" : 192,
+			 
+			 "logs" : [
+			 	{
+			 		"date" :  1428498910924,
+			 		"type" : "in"
+			 	},
+			 	{
+			 		"date" :  1428516910924,
+			 		"type" : "out",
+			 		"summary" : "Created Functionalities"
+			 	},
+			 	{
+			 		"date": 1428585310924,
+			 		"type" : "in"
+			 	},
+			 	{
+					"date" :  1428596110924,
+			 		"type" : "out",
+			 		"summary" : "Edited UIs"
+			 	}
+			]		
+		},
+				{
+			"id" : 2130004,
+			"password" : "444444",
+			 "lastName" : "Stark",
+			 "firstName" : "Tony",
+			 "course" : "BLIS",
+			 "workPlace" : "IT Center",
+			 "adviser" : "Maria Concepcion Clemente",
+			 "totalHours" : 188,
+			 
+			 "logs" : [
+			 	{
+			 		"date" : 1428500076257,
+			 		"type" : "in"
+			 	},
+			 	{
+			 		"date" :  1428518076257,
+			 		"type" : "out",
+			 		"summary" : "Created Use Case"
+			 	},
+				{
+					"date" :  1428586476257,
+					"type" : "in"
+				},
+				{
+					"date" : 1428597276257,
+					"type" : "out",
+					"summary" : "Created ERD"
+				},
+				{
+					"date" :  1430409600000,
+					"type" : "in"
+				},
+				{
+					"date" : 1430510400000,
+					"type" : "out",
+					"summary": "Created Site Map"
+				}
+			 ]
+		},
+
+		{
+			"id" : 2130006,
+			"password" : 666666,
+			 "lastName" : "Kent",
+			 "firstName" : "Clark",
+			 "course" : "BSCE",
+			 "workPlace" : "Library",
+			 "adviser" : "Cecilia Mercado",
+			 "totalHours" : 191,
+			 
+			 "logs" : [
+			 	{
+			 		"date" : 1428587190026,
+			 		"type" : "in"
+			 	},
+			 	{
+			 		"date" : 1428597990026,
+			 		"type" : "out",
+			 		"summary" : ""
+			 	},
+			 	{
+			 		"date" : 1429105590026,
+			 		"type" : "in"
+			 	},
+			 	{
+			 		"date" : 1429127190026,
+			 		"type" : "out",
+			 		"summary" : ""
+			 	}
+			 ]
+		}
+		
+	]
+
+}
